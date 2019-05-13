@@ -1,3 +1,15 @@
+<!-- Any improvements would be:
+• could you link relevant Github commits e.g. ‘Writing descriptive & succinct commit messages’
+• I’d like you evidence your skills sections with more specific examples of passion for learning
+• You might be able to dig through and find a link to show off some
+• I’d love now for you to think about developing your broader interest in tech (and get it in your CV) to standout even more amongst a Makers pool with similar skills
+By this I mean
+• Mention a technology you’re interested in now
+• Tell us about a project your working on now
+• List any blogs, developers that light you up
+• Consider heading to meet-ups and hackathons and list them there.
+• Blog though your learning journey -->
+
 <center>
 <img src="https://i.postimg.cc/nhfRCGZp/Aiden.png">
  
@@ -66,7 +78,7 @@ _**Core course topics:**_
 
 #### Programming fundamentals
 
-Object Oriented Design (OOP) best practices, Test Driven Development (TDD), writing clean code, Pair Programming , Agile development as well as core principles such as dependency injection, single responsibility, cohesion and encapsulation, polymorphism etc.
+Object Oriented Design (OOP) best practices, Test Driven Development (TDD), writing clean code, Pair Programming, Agile development as well as core principles such as dependency injection, single responsibility, cohesion and encapsulation, polymorphism etc.
 
 #### Languages and frameworks
 
@@ -78,10 +90,10 @@ Object Oriented Design (OOP) best practices, Test Driven Development (TDD), writ
 
 **Git workflow**
 
-- Using branches to work collaboratively in teams
-- Writing descriptive & succinct commit messages
-- Enforcing good commit discipline to minimise code conflicts
-- Dealing with code conflicts
+- [Using branches to work collaboratively in teams](https://github.com/aidengleave/peakPose/branches)
+- [Writing descriptive & succinct commit messages](https://github.com/aidengleave/acebook-desk-warriors/commits?author=aidengleave) 
+- [Enforcing good commit discipline to minimise code conflicts](https://github.com/aidengleave/acebook-desk-warriors/commits/development)
+- [Dealing with code conflicts](https://github.com/aidengleave/peakPose/commit/75e92e4ac3cdb11e11363c5fb344fa545739d01d)
 
 **Deployment**
 
@@ -96,6 +108,7 @@ Object Oriented Design (OOP) best practices, Test Driven Development (TDD), writ
   - Breaking down the program into user stories
   - Breaking down the user stories further into tickets
   - Daily stand-ups and retrospectives to iteratively improve processes and code
+
 ## Experience
 
 ## **Jubilee Primary School - Lambeth** (June 2013 to November 2018)    
