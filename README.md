@@ -1,18 +1,6 @@
-<!-- Any improvements would be:
-• could you link relevant Github commits e.g. ‘Writing descriptive & succinct commit messages’
-• I’d like you evidence your skills sections with more specific examples of passion for learning
-• You might be able to dig through and find a link to show off some
-• I’d love now for you to think about developing your broader interest in tech (and get it in your CV) to standout even more amongst a Makers pool with similar skills
-By this I mean
-• Mention a technology you’re interested in now
-• Tell us about a project your working on now
-• List any blogs, developers that light you up
-• Consider heading to meet-ups and hackathons and list them there.
-• Blog though your learning journey -->
+
 
 <center>
-<img src="https://i.postimg.cc/nhfRCGZp/Aiden.png">
- 
 <h1>Aiden Gleave</h1>
 </center>
 
@@ -20,10 +8,10 @@ By this I mean
  [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Hobbies & Interests](#interests) | [Experience](#experience) | [LinkedIn](https://www.linkedin.com/in/aiden-gleave-901b8a16b/)
 
 
-After spending the past 5 years working in primary education I have been trying to find a career that is more engaging, I believe I have found that calling in becoming a developer. I have spent the last year moving towards this goal, culminating in attending a 4 month intesive bootcamp at Makers Academy.
+After spending the past 5 years working in primary education I have been trying to find a career that is more engaging. I have spent the last year moving towards this goal, culminating in attending a 4 month intensive software development bootcamp at Makers Academy.
+I make sure to attend meetups, mainly covering JavaScript, DevOps and AI. I have also volunteered at this year’s CityJS Conference.
 
 I'm looking to work for an organisation where I can make a meaningful contribution. I'm a fast learner, and I'm willing and enthusiastic to learn new technology stacks and skills.
-
 
 
 **Background**
@@ -46,27 +34,33 @@ I'm looking to work for an organisation where I can make a meaningful contributi
 
 Here is a selection of the projects I've worked on. For a complete list, [please see my Github](https://github.com/aidengleave?tab=repositories) 
 
-| **Project**               | **Description**                                                                                                           | **Timeframe** | **Technology**                                | **Github**                                                          | **Live**                                          |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------- | --------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------- |
-| PeakPose        | PoseNet based app which helps users train yoga poses                                                                  | 2 Weeks       | TensorFlow.js / PoseNet, React, Jest, TravisCI, Heroku  | [Github](https://github.com/aidengleave/peakPose)               | [Live](https://codename-asana.herokuapp.com/)                  |
-|  @ceBook   | Facebook clone project using Ruby on Rails | 2 Weeks | Ruby on Rails, PostgreSQL, Bootstrap, RSpec, Capybara, TravisCI, Heroku | [GitHub](https://github.com/aidengleave/acebook-desk-warriors)                                  | [Live](https://acebook-team-desk-warriors.herokuapp.com/)           |            |
-|    MakersBnB      | CRUD app based on Airbnb as an introduction to Agile processes  | 1 Week | Ruby on Rails, RSpec, Capybara, TravisCI, Heroku |[Github](https://github.com/aidengleave/MakersBnB)                                     | [Live](https://makersbnb6ever.herokuapp.com/)
+| Project 	| Description                                                    	| Timeframe 	| Technology                                                              	| Live     	|
+|----------------	|----------------------------------------------------------------	|-----------	|-------------------------------------------------------------------------	|----------	|
+| [PeakPose](https://github.com/aidengleave/peakPose)   	| PoseNet based app which helps users train yoga poses           	| 2 Weeks   	| TensorFlow.js / PoseNet, React, Jest, TravisCI, Heroku                  	| [Live](https://codename-asana.herokuapp.com/) 	|
+| [@cebook](https://github.com/aidengleave/acebook-desk-warriors)    	| Facebook clone project using Ruby on Rails                     	| 2 Weeks   	| Ruby on Rails, PostgreSQL, Bootstrap, RSpec, Capybara, TravisCI, Heroku 	| [Live](https://acebook-team-desk-warriors.herokuapp.com/) 	|
+| [MakersBnB](https://github.com/aidengleave/MakersBnB)  	| CRUD app based on Airbnb as an introduction to Agile processes 	| 1 Week    	| Ruby on Rails, RSpec, Capybara, TravisCI, Heroku                        	| [Live](https://makersbnb6ever.herokuapp.com/) 	|
 
 ## Skills
 
 #### Communication
 
-Throughout my career I have always worked in environments built on the ability to make yourself understood. Whether explaining a lesson to children in the classroom, conflict resolution on the playground, debating on how to implement the curriculum with my colleagues or helping staff work through their technical difficluties.
+Throughout my career I have always worked in environments built on the ability to make yourself understood. Whether explaining a lesson to children in the classroom, conflict resolution on the playground, debating on how to implement the curriculum with my colleagues or helping staff work through their technical difficulties.
+ - Whilst at Makers Academy I feel I have grown my abilities during pair programming sessions and working on group projects, I have become more confident speaking out in meetings and making sure I can add my experience to situations that demand it.
 
-Whilst at Makers Academy I feel I have grown further in my abilities during pair programming sessions and working on group projects, I have become more confident speaking out in meetings and making sure I can add my experience to situations that demand it.
+#### Passion for Learning
 
-#### Passion for learning
+During my time working in education, my focus was always on how I could best teach others and in turn this taught me a lot about how I learn myself. 
+ - Taught myself how to build and maintain PC’s, overclocking hardware and troubleshooting problems including data recovery from failing hard-drives.
 
-During my time working in education, my focus was always on how I could best teach others and in turn this taught me a lot about how I learn myself. During the lead-up to my decision to change my career, I pushed myself to learn as much as I could about the different approaches I could take to get into the software industry. I spent some time working on programming courses and kata to get a better understanding of programming before the intensive immersion I would experience while attending the bootcamp.
+ - While working at Jubilee I taught myself how to use the network management system to assign user credentials, push software updates across the network and moderate disk space and permissions.
+
+ - Enjoy reading about cognitive psychology to find out how I can learn more effectively.
 
 #### Problem Solving
+My love of problem solving has grown exponentially since I started programming. While previously I would have scratched this itch playing board games, I now revel in working my way out of a difficult debugging problem, or researching how to best go about utilising a new technology.
 
-My love of problem solving has grown exponentially since I started programming. While previously I would have scratched this itch playing boardgames, I now revel in working my way out of a difficult debugging problem, or researching how to best go about utilising a technology.
+ - When called on to fix a colleague’s IT issue, I would methodically work through from the most likely solution to make sure it was fixed in the fastest time possible so pupils would not disengage from the lesson in progress.
+
 
 ## Education
 
@@ -142,7 +136,6 @@ _Front of House / Assistant Chef_
 
  - **Painting** : This goes hand in hand with the above. Having attended lessons with respected artists in the miniature community I paint to a good display standard. I also take commission work on occasion. 
  
- - **Yoga**
+ - **Yoga & Meditation**
  
- - **Hiking**
 
