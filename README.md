@@ -8,8 +8,10 @@
  [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Hobbies & Interests](#interests) | [Experience](#experience) | [LinkedIn](https://www.linkedin.com/in/aiden-gleave-901b8a16b/)
 
 
-After spending the past 5 years working in primary education I have been trying to find a career that is more engaging. I have spent the last year moving towards this goal, culminating in attending a 4 month intensive software development bootcamp at Makers Academy.
-I make sure to attend meetups, mainly covering JavaScript, DevOps and AI. I have also volunteered at this year’s CityJS Conference.
+During my time working in primary education I showed my passion for technology and took over as the in-house IT support. This coupled with running an after-school Code Club gave me the confidence to follow my dream and retrain as a developer. 
+I have spent the last year moving towards this goal, culminating in attending a 4 month intensive software development bootcamp at Makers Academy.
+
+Earlier this year I had the chance to volunteer at the CityJS Conference and I also attend meetups on a weekly basis, mostly covering DevOps, JavaScript and AI.
 
 I'm looking to work for an organisation where I can make a meaningful contribution. I'm a fast learner, and I'm willing and enthusiastic to learn new technology stacks and skills.
 
